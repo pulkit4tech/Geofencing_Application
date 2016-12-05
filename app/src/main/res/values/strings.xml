@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoFencing</string>
+    <string name="add_geofences">Add GEOFENCES</string>
+    <string name="geofence_not_available">Geofence Services not available now. Please try after some time</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences.</string>
+    <string name="geofence_too_many_pending_intents">Provided too many pending Intent to the addGeo...</string>
+    <string name="unknown_geofence_error">Unknown Error: Geofence Service is not available</string>
+    <string name="geofence_transition_entered">ENTERED</string>
+    <string name="geofence_transition_exited">EXIT</string>
+    <string name="geofence_transition_notification_text">Click it to return to main App</string>
+    <string name="geo_fence_transition_invalid_type">Invalid Transition type</string>
+    <string name="unknown_geofence_transition">Unknown geofence Transition</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="action_settings">Settings</string>
+</resources>
